@@ -54,4 +54,22 @@ code {
     font-size: 16px;
 }
 
+a:link {
+    /* unvisited link */
+    color: green;
+}
 
+a:visited {
+    /* visited link */
+    color: black;
+}
+
+a:hover {
+    /* mouse over link */
+    color: red;
+}
+
+a:active {
+    /* active link */
+    color: blue;
+}
